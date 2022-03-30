@@ -72,6 +72,8 @@ https://qiita.com/amamamaou/items/b6cb39739bba4abf4544
 ## Nestjs
 https://qiita.com/elipmoc101/items/9b1e6b3efa62f3c2a166
 
+## Nuxtjs
+https://qiita.com/itouuuuuuuuu/items/4132e3b7ddf2cbf02442
 
 Npm ci
 https://qiita.com/mstssk/items/8759c71f328cab802670
